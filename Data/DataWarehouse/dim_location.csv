@@ -1,0 +1,51 @@
+location_id,state_cd,state_name,region_name,region_cd
+1,AL,alabama,South Region,S
+2,AK,alaska,West Region,W
+3,AZ,arizona,West Region,W
+4,AR,arkansas,South Region,S
+5,CA,california,West Region,W
+6,CO,colorado,West Region,W
+7,CT,connecticut,Northeast Region,NE
+8,DE,delaware,South Region,S
+9,FL,florida,South Region,S
+10,GA,georgia,South Region,S
+11,HI,hawaii,West Region,W
+12,ID,idaho,West Region,W
+13,IL,illinois,Midwest Region,MW
+14,IN,indiana,Midwest Region,MW
+15,IA,iowa,Midwest Region,MW
+16,KS,kansas,Midwest Region,MW
+17,KY,kentucky,South Region,S
+18,LA,louisiana,South Region,S
+19,ME,maine,Northeast Region,NE
+20,MD,maryland,South Region,S
+21,MA,massachusetts,Northeast Region,NE
+22,MI,michigan,Midwest Region,MW
+23,MN,minnesota,Midwest Region,MW
+24,MS,mississippi,South Region,S
+25,MO,missouri,Midwest Region,MW
+26,MT,montana,West Region,W
+27,NE,nebraska,Midwest Region,MW
+28,NV,nevada,West Region,W
+29,NH,new hampshire,Northeast Region,NE
+30,NJ,new jersey,Northeast Region,NE
+31,NM,new mexico,West Region,W
+32,NY,new york,Northeast Region,NE
+33,NC,north carolina,South Region,S
+34,ND,north dakota,Midwest Region,MW
+35,OH,ohio,Midwest Region,MW
+36,OK,oklahoma,South Region,S
+37,OR,oregon,West Region,W
+38,PA,pennsylvania,Northeast Region,NE
+39,RI,rhode island,Northeast Region,NE
+40,SC,south carolina,South Region,S
+41,SD,south dakota,Midwest Region,MW
+42,TN,tennessee,South Region,S
+43,TX,texas,South Region,S
+44,UT,utah,West Region,W
+45,VT,vermont,Northeast Region,NE
+46,VA,virginia,South Region,S
+47,WA,washington,West Region,W
+48,WV,west virginia,South Region,S
+49,WI,wisconsin,Midwest Region,MW
+50,WY,wyoming,West Region,W
