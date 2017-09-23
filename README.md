@@ -1,2 +1,2 @@
 # EPA_Database
-Designing a database of environmental data using Microsoft tools (SQL Server, SSIS)
+Designing a data warehouse of environmental data using Microsoft tools (SQL Server, SSIS)
